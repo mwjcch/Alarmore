@@ -13,6 +13,13 @@ For a better experience, while using our Service, I may require you to provide u
 * **Audience Network:** https://www.facebook.com/ads/manage/audience_network/publisher_tos/
 * **YouTube:** https://www.youtube.com/t/terms
 
+#### YouTube's Terms of Service
+Terms of Service (https://www.youtube.com/t/terms)
+By using Alarmore application, the User agrees to be bound by the YouTube Terms of Service.
+Alarmore app is integrates with the YouTube API, and uses YouTube API Services. (The API Client uses YouTube API Services.)
+When you use YouTube feature in app, we not collects and not uses your data or search history.  
+By using Alarmore, you are agreeing to be bound by the YouTube Terms of Service. We  provide you with a link to the Google Privacy Policy at http://www.google.com/policies/privacy, wher you can find more infomation.
+
 #### Log Data
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\'IP\') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 #### Cookies
