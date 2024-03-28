@@ -10,7 +10,6 @@ For a better experience, while using our Service, I may require you to provide u
 * **Google Play Services:** https://www.google.com/policies/privacy
 * **Firebase:** https://www.google.com/policies/privacy
 * **AdMob:** https://support.google.com/admob/answer/6128543
-* **Audience Network:** https://www.facebook.com/ads/manage/audience_network/publisher_tos/
 * **YouTube:** https://www.youtube.com/t/terms
 
 #### YouTube's Terms of Service
